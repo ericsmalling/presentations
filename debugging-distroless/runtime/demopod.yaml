@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Pod
+metadata:  
+  labels:
+    run: demopod
+  name: demopod
+spec:
+  containers:
+  - command:
+    - prometheus
+    - --config.file=/etc/prometheus/prometheus.yml
+    image: cgr.dev/chainguard/prometheus:latest
+    name: demopod
+    volumeMounts:
+    - mountPath: /data
+      name: prometheus-data
+  volumes:
+  - name: prometheus-data
+    emptyDir: {}
