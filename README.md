@@ -1,2 +1,1 @@
-# presentations
-Presentations from Eric Smalling
+# Presentations from Eric Smalling
