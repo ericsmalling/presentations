@@ -5,11 +5,11 @@ Presented to:
 * [DevOpsDays Dallas-Fort Worth 7](https://devopsdays.org/events/2024-dallas/program/eric-smalling/)
   * Plano, TX, USA
   * October 9, 2024
-  * _30 minute version, Runtime debugging demo only_
+
 * [Cloud Native Rejekts NA`24](https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-na-salt-lake-city-2024/talk/UZJWHM/)
   * Salt Lake City, UT, USA
   * November 10, 2024
-  * _45 minute version, including build strategy topics_
+ 
 
 ## Content
 * [Slides](DODDFW24-How%20the%20heck%20do%20I%20debug%20distroless%20containers.pdf)
