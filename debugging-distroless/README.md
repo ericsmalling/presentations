@@ -6,6 +6,10 @@ Presented to:
   * Plano, TX, USA
   * October 9, 2024
 
+* [Kubernetes and Cloud Native North Dallas](https://www.meetup.com/kubernetes-and-cloud-native-north-dallas/events/300443775)
+  * Plano, TX, USA
+  * October 17, 2024
+
 * [Cloud Native Rejekts NA`24](https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-na-salt-lake-city-2024/talk/UZJWHM/)
   * Salt Lake City, UT, USA
   * November 10, 2024
