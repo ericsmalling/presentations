@@ -14,9 +14,8 @@ Presented to:
   * Salt Lake City, UT, USA
   * November 10, 2024
  
-
 ## Content
-* [Slides](DODDFW24-How%20the%20heck%20do%20I%20debug%20distroless%20containers.pdf)
+* [Slides](How%20the%20heck%20do%20I%20debug%20distroless%20containers.pdf)
 * _Recording (pending)_
 
 ## Tools used/mentioned:
