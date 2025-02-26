@@ -5,6 +5,7 @@ Presented to:
 * [DevOpsDays Dallas-Fort Worth 7](https://devopsdays.org/events/2024-dallas/program/eric-smalling/)
   * Plano, TX, USA
   * October 9, 2024
+  * [Recording](https://youtu.be/CyR8DER9okY?si=s_nVXSlFBAWQnw1x)
 
 * [Kubernetes and Cloud Native North Dallas](https://www.meetup.com/kubernetes-and-cloud-native-north-dallas/events/300443775)
   * Plano, TX, USA
@@ -13,10 +14,11 @@ Presented to:
 * [Cloud Native Rejekts NA`24](https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-na-salt-lake-city-2024/talk/UZJWHM/)
   * Salt Lake City, UT, USA
   * November 10, 2024
+  * [Recording](https://youtu.be/irRxgJofPj8?si=TD4VWlHd2FVnv1GL)
  
 ## Content
 * [Slides](How%20the%20heck%20do%20I%20debug%20distroless%20containers.pdf)
-* _Recording (pending)_
+* _Recordings linked above where available_
 
 ## Tools used/mentioned:
 * [Google Distroless Images](https://github.com/GoogleContainerTools/distroless)
